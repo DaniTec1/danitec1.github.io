@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4aae7623b893619926f04810dc8bd896.js"
+  "/precache-manifest.c584c73bb5ec3c35d3ab373bb7cd9c48.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "danitec"});
